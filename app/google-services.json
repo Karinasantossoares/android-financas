@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "122872123177",
+    "project_id": "desafio-android-mobills-428ac",
+    "storage_bucket": "desafio-android-mobills-428ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122872123177:android:73668ed136f4d9fd3df138",
+        "android_client_info": {
+          "package_name": "com.example.desafioandroidmobills"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122872123177-fs03q736r1a5gj0hnuv3857o2gavgmch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOUtzaW_AtEX24oPSzhXbYXagY73xI3Oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122872123177-fs03q736r1a5gj0hnuv3857o2gavgmch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
