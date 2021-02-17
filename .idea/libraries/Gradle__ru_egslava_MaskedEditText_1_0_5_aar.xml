@@ -4,6 +4,9 @@
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4154c8374460ac046080360d7c036dcb/jetified-MaskedEditText-1.0.5/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4154c8374460ac046080360d7c036dcb/jetified-MaskedEditText-1.0.5/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4154c8374460ac046080360d7c036dcb/jetified-MaskedEditText-1.0.5/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7a39bd03a04561eb90e0f21b877b576f/jetified-MaskedEditText-1.0.5/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7a39bd03a04561eb90e0f21b877b576f/jetified-MaskedEditText-1.0.5/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7a39bd03a04561eb90e0f21b877b576f/jetified-MaskedEditText-1.0.5/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ru.egslava/MaskedEditText/1.0.5/28dedb07742e9f49f6432bafa15ef312c652094c/MaskedEditText-1.0.5-javadoc.jar!/" />
