@@ -31,6 +31,7 @@ class LoginFragment : Fragment() {
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 
+        viewModel.onDestroy()
         binding.btnEnter.setOnClickListener {
             val email = et_email.text.toString()
             val password = et_password.text.toString()
@@ -58,10 +59,5 @@ class LoginFragment : Fragment() {
 
     }
 
-    override fun onDestroyView() {
-        super.onDestroyView()
-        viewModel.onDestroy()
-
-    }
 
 }

@@ -32,6 +32,8 @@ class RegisterFragment : Fragment() {
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 
+        viewModel.onDestroy()
+
         binding.btnRegister.setOnClickListener {
             val email = binding.etEmail.text.toString()
             val password = binding.etPassword.text.toString()
@@ -53,11 +55,6 @@ class RegisterFragment : Fragment() {
             binding.btnRegister.isVisible = !it
         })
 
-    }
-
-    override fun onDestroyView() {
-        super.onDestroyView()
-        viewModel.onDestroy()
     }
 
 }
